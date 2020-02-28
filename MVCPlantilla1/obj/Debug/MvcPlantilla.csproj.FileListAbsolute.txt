@@ -1,0 +1,13 @@
+C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\bin\MvcPlantilla.dll
+C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\bin\MvcPlantilla.pdb
+C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\obj\Debug\MvcPlantilla.csprojResolveAssemblyReference.cache
+C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\obj\Debug\MvcPlantilla.dll
+C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\obj\Debug\MvcPlantilla.pdb
+<<<<<<< HEAD
+C:\Users\bean_\Desktop\MVCPlantilla1\bin\MvcPlantilla.dll
+C:\Users\bean_\Desktop\MVCPlantilla1\bin\MvcPlantilla.pdb
+C:\Users\bean_\Desktop\MVCPlantilla1\obj\Debug\MvcPlantilla.dll
+C:\Users\bean_\Desktop\MVCPlantilla1\obj\Debug\MvcPlantilla.pdb
+=======
+C:\Users\bean_\Desktop\MVCPlantilla\obj\Debug\MvcPlantilla.csprojResolveAssemblyReference.cache
+>>>>>>> origin/master
